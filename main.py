@@ -14,3 +14,4 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # лаба 8 по скв
+#dgfkfdkfdkf
